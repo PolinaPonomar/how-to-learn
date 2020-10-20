@@ -1,0 +1,11 @@
+.footer__links-decoration {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+}
+
+.footer__links-decoration:hover {
+  color: red;
+}
