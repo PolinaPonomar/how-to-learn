@@ -4,4 +4,9 @@
   background-size: cover;
   width: 16px;
   height: 16px;
+  transition: opacity 0.5s ease-in;
+}
+
+.footer__social-icon:hover {
+  opacity: 0.4;
 }
