@@ -24,4 +24,4 @@
 git clone https://github.com/PolinaPonomar/how-to-learn.git
 ```
 2) Перейдите внутрь репозитория и откройте файл index.html с помощью браузера
-Готово!
+3) Готово!
